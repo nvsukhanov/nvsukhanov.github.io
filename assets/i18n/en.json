@@ -23,8 +23,8 @@
   "noHubConnected": "No connected hubs",
   "hubIsNotConnected": "Hub is not connected",
   "bluetoothIsNotAvailable": "Bluetooth is not available",
-  "hubConnectionFailed": "Hub connection failed",
-  "unknownHubConnectionError": "Unknown hub connection error",
+  "hubConnected": "Hub {name} connected",
+  "hubDisconnected": "Hub {name} disconnected",
   "hubBatteryLevel": "Battery: {batteryLevel}%",
   "hubBatteryLevelUnknown": "Battery level unknown",
   "hubRSSILevel": "RSSI: {RSSI}",
@@ -112,5 +112,10 @@
   "aboutPageAuthorName": "Nikolai Sukhanov",
   "aboutPageSourcesTitle": "Sources",
   "aboutPageGithubTitle": "ngPoweredUP GitHub",
-  "aboutPageGithubApiTitle": "rxPoweredUP GitHub"
+  "aboutPageGithubApiTitle": "rxPoweredUP GitHub",
+  "bluetoothUnavailableToolbarTitle": "Bluetooth is not available",
+  "bluetoothUnavailableMessage": "Bluetooth is not available in your browser. For more information, please refer to",
+  "servoCalibrationIsInProgress": "Servo calibration is in progress",
+  "servoCalibrationError": "An error occurred during servo calibration",
+  "servoCalibrationCancel": "Cancel"
 }
