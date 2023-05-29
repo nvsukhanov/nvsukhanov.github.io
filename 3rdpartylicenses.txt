@@ -555,6 +555,9 @@ MIT
     SOFTWARE
 
 
+typescript-memoize
+MIT
+
 zone.js
 MIT
 The MIT License
